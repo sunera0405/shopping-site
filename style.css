@@ -1,0 +1,213 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color:#DBAFA0;
+}
+
+.container{
+    margin-block: 1rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:#BB8493;
+    line-height: 5rem;
+
+    
+
+}
+h2{
+    display: inline-block;
+    font-size:1.5rem;
+    padding:0rem 0.96rem;
+    color:#49243E;
+    text-decoration: underline;
+}
+.container,a{
+    text-decoration: none;
+    font-size:1.25rem;
+    color:#704264;
+    
+}
+a{
+    padding:5rem;
+}
+.home{
+    text-align: center;
+    background-image: url("/home_bg.jpg");
+
+    max-width:100%;
+    /* height:auto; */
+    min-height:30rem;
+    background-size:cover;
+    display:block;
+    margin:0 auto;
+    margin-block: 4.8rem;;
+    
+}
+.home h3{
+    padding-top:8.5rem;
+    text-align: center;
+    font-size:4.5rem;
+    color:#49243E;
+    /* color:hwb(309 17% 39%); */
+    max-width: 100%;
+    height: auto;
+    
+    
+}
+.content1,.content2,.content3{
+    margin-block:8rem;
+
+}
+/* here is first content1 styles */
+.content1 h3{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #704264;
+    font-size:2rem ;
+}
+.img-with-text{
+    display:grid;
+    grid-template-columns: 40rem 30rem;
+    column-gap:3rem;
+    margin-inline: 7rem;
+    
+    margin-block: 1rem;
+}
+.img-container{
+     
+     min-height:25rem;
+     background-image: url(/TSHIRT.jpg);
+    background-size: cover;
+
+}
+.text-container{
+    
+     min-height:20rem;
+     
+}
+.text-container p{
+    margin-block:8rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5rem;
+}
+/* here content2 stylkes */
+.content2 h3{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #704264;
+    font-size:2rem ;
+}
+.img-with-text2{
+    display:grid;
+    grid-template-columns: 40rem 30rem;
+    column-gap:3rem;
+    margin-inline: 7rem;
+    
+    margin-block: 1rem;
+}
+
+ .img-container2{
+    
+    min-height:25rem;
+    background-image: url(/MENS_SHOES.jpg);
+   background-size: cover;
+
+}
+.text-container2{
+   
+    min-height:20rem;
+    
+}
+.text-container2 p{
+   margin-block:8rem;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 1.5rem;
+}
+/* here content3---styles */
+.content3 h3{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #704264;
+    font-size:2rem ;
+}
+.img-with-text3{
+    display:grid;
+    grid-template-columns: 40rem 30rem;
+    column-gap:3rem;
+    margin-inline: 7rem;
+    
+    margin-block: 1rem;
+}
+
+ .img-container3{
+    
+    min-height:25rem;
+    background-image: url(/watches.jpg);
+   background-size: cover;
+
+}
+.text-container3{
+   
+    min-height:20rem;
+    
+}
+.text-container3 p{
+   margin-block:8rem;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 1.5rem;
+}
+/*till here content3---styles */
+/*footer*/
+.bottom
+{
+    margin-block: 10rem;
+    background-color: #BB8493;
+    height: auto;
+}
+.bottom h4{
+    text-align: center;
+    font-size: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bottom p{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
